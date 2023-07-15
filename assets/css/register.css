@@ -1,0 +1,32 @@
+body{
+    background-color: #4f6fbb;
+}
+.regi{
+    background-color: #2a67bc;
+}
+
+.light{
+    background-color: #84b0ef;
+    color: black;
+}
+.log a{
+    color: black;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.container h2{
+    margin-bottom: 100px;
+}
+.container a{
+    
+    width: 80px;
+    margin: auto;
+    margin-top: 50px;
+}
+/* .last{
+
+} */
