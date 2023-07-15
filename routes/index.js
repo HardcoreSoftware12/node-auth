@@ -4,7 +4,7 @@ const { ensureAuthenticated } = require('../config/checkAuth')
 
 //------------ Welcome Route ------------//
 router.get('/', (req, res) => {
-    res.render('register');
+    res.render('welcome');
 });
 
 //------------ Dashboard Route ------------//
